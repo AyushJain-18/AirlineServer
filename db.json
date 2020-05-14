@@ -1,7 +1,7 @@
 {
   "flight": [
     {
-      "name": "Mindtree Airline 748",
+      "name": " AIRWAYS 748",
       "airlineNumber": "PQ001",
       "from": "Bangalore",
       "destination": "Delhi",
@@ -13,7 +13,7 @@
       "date": "Thu Oct 27 2019"
     },
     {
-      "name": "Mindtree Airline 100",
+      "name": " AIRWAYS 100",
       "airlineNumber": "PQ002",
       "from": "Kolkata",
       "destination": "Jaipur",
@@ -25,7 +25,7 @@
       "date": "Thu Oct 24 2019"
     },
     {
-      "name": "Mindtree Airline 122",
+      "name": " AIRWAYS 122",
       "airlineNumber": "PQ003",
       "from": "Delhi",
       "destination": "Jaipur",
@@ -37,7 +37,7 @@
       "date": "Thu Nov 21 2019"
     },
     {
-      "name": "Mindtree Airline 007",
+      "name": " AIRWAYS 007",
       "airlineNumber": "PQ004",
       "from": "Delhi",
       "destination": "Dubai",
@@ -49,7 +49,7 @@
       "date": "Thu Nov 05 2019"
     },
     {
-      "name": "Mindtree Airline 008",
+      "name": " AIRWAYS 008",
       "airlineNumber": "PQ005",
       "from": "Bangalore",
       "destination": "Kolkata",
@@ -63,23 +63,22 @@
   ],
   "PQ001": [
     {
-      "id": 1,
+      "id": "PQ001-1",
       "firstName": "YaYa",
       "lastName": "Volonte",
       "age": 27,
       "contactNumber": 9811954293,
       "infants": true,
       "wheelChair": true,
-      "PNR": "PQ001XY02",
-      "seatNo": "E10",
+      "PNR": "PQ001XY01",
+      "seatNo": "A3",
       "Image": "https://randomuser.me/api/portraits/men/1.jpg",
       "meal": "Non-Veg",
       "luggage": "15kg",
       "payPerView": "Bollywood"
-      
     },
     {
-      "id": 2,
+      "id": "PQ001-2",
       "firstName": "William",
       "lastName": "Volonte",
       "age": 27,
@@ -94,7 +93,7 @@
       "payPerView": "Bollywood"
     },
     {
-      "id": 3,
+      "id": "PQ001-3",
       "firstName": "Lyda",
       "lastName": "Pead",
       "age": 38,
@@ -109,7 +108,7 @@
       "payPerView": "Bollywood"
     },
     {
-      "id": 4,
+      "id": "PQ001-4",
       "firstName": "Bambi",
       "lastName": "Mussared",
       "age": 17,
@@ -124,7 +123,7 @@
       "payPerView": "Bollywood"
     },
     {
-      "id": 5,
+      "id": "PQ001-5",
       "firstName": "Alison",
       "lastName": "McGuffie",
       "age": 1,
@@ -139,7 +138,7 @@
       "payPerView": "Bollywood"
     },
     {
-      "id": 6,
+      "id": "PQ001-6",
       "firstName": "Harlie",
       "lastName": "Boucher",
       "age": 12,
@@ -154,7 +153,7 @@
       "payPerView": "Bollywood"
     },
     {
-      "id": 7,
+      "id": "PQ001-7",
       "firstName": "Cly",
       "lastName": "Withrington",
       "age": 40,
@@ -169,7 +168,7 @@
       "payPerView": "Tollywood"
     },
     {
-      "id": 8,
+      "id": "PQ001-8",
       "firstName": "Carlita",
       "lastName": "Izzard",
       "age": 39,
@@ -183,7 +182,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 9,
+      "id": "PQ001-9",
       "firstName": "Ruperta",
       "lastName": "Keniwell",
       "age": 21,
@@ -197,7 +196,7 @@
       "meal": "Veg"
     },
     {
-      "id": 10,
+      "id": "PQ001-10",
       "firstName": "Xever",
       "lastName": "Blanque",
       "age": 10,
@@ -211,7 +210,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 11,
+      "id": "PQ001-11",
       "firstName": "Ebeneser",
       "lastName": "Disney",
       "age": 18,
@@ -226,7 +225,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 12,
+      "id": "PQ001-12",
       "firstName": "Roldan",
       "lastName": "Francino",
       "age": 24,
@@ -241,7 +240,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 13,
+      "id": "PQ001-13",
       "firstName": "Major",
       "lastName": "Basant",
       "age": 30,
@@ -255,7 +254,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 14,
+      "id": "PQ001-14",
       "firstName": "Allis",
       "lastName": "Fantin",
       "age": 34,
@@ -269,7 +268,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 15,
+      "id": "PQ001-15",
       "firstName": "Thurston",
       "lastName": "Witherdon",
       "age": 43,
@@ -283,7 +282,7 @@
       "meal": "Non-Veg"
     },
     {
-      "id": 16,
+      "id": "PQ001-16",
       "firstName": "Kelley",
       "lastName": "Tocher",
       "age": 28,
@@ -295,7 +294,7 @@
       "Image": "https://randomuser.me/api/portraits/women/17.jpg"
     },
     {
-      "id": 17,
+      "id": "PQ001-17",
       "firstName": "Marji",
       "lastName": "Olver",
       "age": 28,
@@ -307,7 +306,7 @@
       "Image": "https://randomuser.me/api/portraits/women/18.jpg"
     },
     {
-      "id": 18,
+      "id": "PQ001-18",
       "firstName": "Jacintha",
       "lastName": "Norcliff",
       "age": 19,
@@ -322,7 +321,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 19,
+      "id": "PQ001-19",
       "firstName": "Vinny",
       "lastName": "Elvey",
       "age": 39,
@@ -337,7 +336,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 20,
+      "id": "PQ001-20",
       "firstName": "Bari",
       "lastName": "Pren",
       "age": 45,
@@ -349,7 +348,7 @@
       "Image": "https://randomuser.me/api/portraits/men/21.jpg"
     },
     {
-      "id": 21,
+      "id": "PQ001-21",
       "firstName": "Drona",
       "lastName": "Jandl",
       "age": 44,
@@ -364,7 +363,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 22,
+      "id": "PQ001-22",
       "firstName": "Timmie",
       "lastName": "Chong",
       "age": 43,
@@ -376,7 +375,7 @@
       "Image": "https://randomuser.me/api/portraits/men/23.jpg"
     },
     {
-      "id": 23,
+      "id": "PQ001-23",
       "firstName": "Elmore",
       "lastName": "Newbold",
       "age": 47,
@@ -391,7 +390,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 24,
+      "id": "PQ001-24",
       "firstName": "Shawnee",
       "lastName": "Platt",
       "age": 34,
@@ -403,7 +402,7 @@
       "Image": "https://randomuser.me/api/portraits/women/25.jpg"
     },
     {
-      "id": 25,
+      "id": "PQ001-25",
       "firstName": "Guido",
       "lastName": "Guerrin",
       "age": 47,
@@ -418,7 +417,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 26,
+      "id": "PQ001-26",
       "firstName": "Garald",
       "lastName": "Enochsson",
       "age": 20,
@@ -430,7 +429,7 @@
       "Image": "https://randomuser.me/api/portraits/women/27.jpg"
     },
     {
-      "id": 27,
+      "id": "PQ001-27",
       "firstName": "Laverne",
       "lastName": "Ambrosi",
       "age": 42,
@@ -445,7 +444,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 28,
+      "id": "PQ001-28",
       "firstName": "Grady",
       "lastName": "Eglaise",
       "age": 30,
@@ -457,7 +456,7 @@
       "Image": "https://randomuser.me/api/portraits/men/29.jpg"
     },
     {
-      "id": 29,
+      "id": "PQ001-29",
       "firstName": "Retha",
       "lastName": "Weafer",
       "age": 42,
@@ -472,7 +471,7 @@
       "payPerView": "Hollywood"
     },
     {
-      "id": 30,
+      "id": "PQ001-30",
       "firstName": "Erik",
       "lastName": "Braiden",
       "age": 37,
@@ -1400,8 +1399,588 @@
   ],
   "users": [
     {
-      "email": "planyourtrip01@gmail.com",
-      "isAdmin": true
+      "id": 1,
+      "loginID": "planyourtrip@gmail.com",
+      "password":"admin@1234",
+      "isAdmin": true,
+      "isCrew": false,
+      "isPassenger": false
+    },
+    {
+      "id": 2,
+      "loginID": "cabincrew1@gmail.com",
+      "password":"crew@1234",
+      "isAdmin": false,
+      "isCrew": true,
+      "isPassenger": false
+    },
+    {
+      "id": 3,
+      "loginID": "cabincrew2@gmail.com",
+      "password":"crew@1234",
+      "isAdmin": false,
+      "isCrew": true,
+      "isPassenger": false
+    },
+    {
+      "id": 4,
+      "loginID":"PQ001XY01",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    },
+    {
+      "id": 5,
+      "loginID":"PQ001XY02",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 6,
+      "loginID":"PQ001XY03",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 7,
+      "loginID":"PQ001XY04",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 8,
+      "loginID":"PQ001XY05",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 9,
+      "loginID":"PQ001XY06",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 10,
+      "loginID":"PQ001XY07",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 11,
+      "loginID":"PQ001XY08",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 12,
+      "loginID":"PQ001XY09",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 13,
+      "loginID":"PQ001XY10",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 14,
+      "loginID":"PQ001XY11",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 15,
+      "loginID":"PQ001XY12",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 16,
+      "loginID":"PQ001XY13",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 17,
+      "loginID":"PQ001XY14",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 18,
+      "loginID":"PQ001XY15",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 19,
+      "loginID":"PQ001XY16",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 20,
+      "loginID":"PQ001XY17",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 21,
+      "loginID":"PQ001XY18",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 22,
+      "loginID":"PQ001XY19",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 23,
+      "loginID":"PQ001XY20",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 24,
+      "loginID":"PQ001XY21",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 25,
+      "loginID":"PQ001XY22",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 26,
+      "loginID":"PQ001XY23",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 27,
+      "loginID":"PQ001XY24",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 28,
+      "loginID":"PQ001XY25",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 29,
+      "loginID":"PQ001XY26",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 30,
+      "loginID":"PQ001XY27",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 31,
+      "loginID":"PQ001XY28",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 32,
+      "loginID":"PQ001XY29",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 33,
+      "loginID":"PQ001XY30",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 34,
+      "loginID":"PQ002XY01",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id":  35,
+      "loginID":"PQ002XY02",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 36,
+      "loginID":"PQ002XY03",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 37,
+      "loginID":"PQ002XY04",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 38,
+      "loginID":"PQ002XY05",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 39,
+      "loginID":"PQ002XY06",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 40,
+      "loginID":"PQ002XY07",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 41,
+      "loginID":"PQ002XY08",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 42,
+      "loginID":"PQ002XY09",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 43,
+      "loginID":"PQ002XY10",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 44,
+      "loginID":"PQ002XY11",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 45,
+      "loginID":"PQ002XY12",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 46,
+      "loginID":"PQ002XY13",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 47,
+      "loginID":"PQ002XY14",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 48,
+      "loginID":"PQ002XY15",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 49,
+      "loginID":"PQ002XY16",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 50,
+      "loginID":"PQ002XY17",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 51,
+      "loginID":"PQ002XY18",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 52,
+      "loginID":"PQ002XY19",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 53,
+      "loginID":"PQ002XY20",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 54,
+      "loginID":"PQ002XY21",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 55,
+      "loginID":"PQ002XY22",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 56,
+      "loginID":"PQ002XY22",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 57,
+      "loginID":"PQ002XY23",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 58,
+      "loginID":"PQ002XY24",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 59,
+      "loginID":"PQ002XY25",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 60,
+      "loginID":"PQ003XY01",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 61,
+      "loginID":"PQ003XY02",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 62,
+      "loginID":"PQ003XY03",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 63,
+      "loginID":"PQ003XY04",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 64,
+      "loginID":"PQ003XY05",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 65,
+      "loginID":"PQ003XY06",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 66,
+      "loginID":"PQ003XY07",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 67,
+      "loginID":"PQ003XY08",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 68,
+      "loginID":"PQ003XY09",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 69,
+      "loginID":"PQ003XY10",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 70,
+      "loginID":"PQ003XY11",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 71,
+      "loginID":"PQ003XY12",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id":72,
+      "loginID":"PQ003XY13",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 73,
+      "loginID":"PQ003XY14",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 74,
+      "loginID":"PQ003XY15",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 75,
+      "loginID":"PQ003XY16",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 76,
+      "loginID":"PQ003XY17",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 77,
+      "loginID":"PQ004XY01",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 78,
+      "loginID":"PQ004XY02",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 79,
+      "loginID":"PQ004XY03",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 80,
+      "loginID":"PQ004XY04",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 81,
+      "loginID":"PQ004XY05",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 82,
+      "loginID":"PQ004XY06",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 83,
+      "loginID":"PQ004XY07",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 84,
+      "loginID":"PQ004XY08",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 85,
+      "loginID":"PQ004XY10",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 86,
+      "loginID":"PQ004XY11",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 87,
+      "loginID":"PQ004XY12",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 88,
+      "loginID":"PQ004XY13",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 89,
+      "loginID":"PQ005XY01",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 90,
+      "loginID":"PQ005XY02",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 91,
+      "loginID":"PQ005XY03",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 92,
+      "loginID":"PQ005XY04",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 93,
+      "loginID":"PQ005XY05",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 94,
+      "loginID":"PQ005XY06",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 95,
+      "loginID":"PQ005XY07",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
+    }, {
+      "id": 95,
+      "loginID":"PQ005XY08",
+      "isAdmin": false,
+      "isCrew": false,
+      "isPassenger": true
     }
   ]
 }
