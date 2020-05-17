@@ -1,12 +1,18 @@
 {
-  "name": "airline-mock-server",
+  "name": "json-server-for-airjet",
   "version": "1.0.0",
-  "description": "An mock server for my-airline",
-  "main": "index.js",
+  "description": "Simple json-base database to deploy to Heroku",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3001",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
-  "author": "Ayush Jain",
-  "license": "ISC"
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Jesper Orb",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
 }
