@@ -4,7 +4,8 @@
   "description": "Simple json-base database to deploy to Heroku",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start-for-deployement": "node index.js",
+    "start": "json-server -w db.json --port 3000",
     "dev": "nodemon index.js"
   },
   "keywords": [
