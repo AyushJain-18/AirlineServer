@@ -14,9 +14,9 @@
       "date": "Thu Oct 27 2019",
       "inFlightShopping": true,
       "ancillaryServices": {
-        "luggage": false,
-        "Pay-Per-View": false,
-        "meal": false,
+        "luggage": true,
+        "Pay-Per-View": true,
+        "meal": true,
         "In-Flight-Shopping": true
       },
       "ancillaryServiceSelectedValue": {
@@ -32,7 +32,8 @@
         ],
         "meal": [
           "Veg",
-          "Non-Veg"
+          "Non-Veg",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -58,7 +59,8 @@
         "meal": [
           "Veg",
           "Non-Veg",
-          "vegan"
+          "vegan",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -89,7 +91,6 @@
       "ancillaryServiceSelectedValue": {
         "luggage": [
           "15kg",
-          "25kg",
           "40kg"
         ],
         "Pay-Per-View": [
@@ -99,7 +100,8 @@
         ],
         "meal": [
           "Veg",
-          "Non-Veg"
+          "Non-Veg",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -125,7 +127,8 @@
         "meal": [
           "Veg",
           "Non-Veg",
-          "vegan"
+          "vegan",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -166,7 +169,8 @@
         ],
         "meal": [
           "Veg",
-          "Non-Veg"
+          "Non-Veg",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -192,7 +196,8 @@
         "meal": [
           "Veg",
           "Non-Veg",
-          "vegan"
+          "vegan",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -233,7 +238,8 @@
         ],
         "meal": [
           "Veg",
-          "Non-Veg"
+          "Non-Veg",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -259,7 +265,8 @@
         "meal": [
           "Veg",
           "Non-Veg",
-          "vegan"
+          "vegan",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -290,8 +297,7 @@
       "ancillaryServiceSelectedValue": {
         "luggage": [
           "15kg",
-          "25kg",
-          "40kg"
+          "25kg"
         ],
         "Pay-Per-View": [
           "Bollywood",
@@ -300,7 +306,8 @@
         ],
         "meal": [
           "Veg",
-          "Non-Veg"
+          "Non-Veg",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -326,7 +333,8 @@
         "meal": [
           "Veg",
           "Non-Veg",
-          "vegan"
+          "vegan",
+          "Special Meal"
         ],
         "In-Flight-Shopping": [
           "Books",
@@ -348,14 +356,15 @@
       "infants": false,
       "wheelChair": true,
       "PNR": "PQ001XY01",
-      "seatNo": "A3",
+      "seatNo": "F7",
       "Image": "https://randomuser.me/api/portraits/men/1.jpg",
-      "meal": "",
+      "meal": "Special Meal",
       "luggage": "",
       "payPerView": "",
       "address": "4555  Heavner Court Garden City  Popular Country",
       "passport": "ABC123XY91",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "inFlightShopping": true
     },
     {
       "id": "PQ001-2",
@@ -472,24 +481,6 @@
       "dob": "1996-02-20"
     },
     {
-      "id": "PQ001-8",
-      "airlineNumber": "PQ001",
-      "firstName": "Carlita",
-      "lastName": "Izzard",
-      "age": 24,
-      "contactNumber": 9811954268,
-      "infants": false,
-      "wheelChair": false,
-      "PNR": "PQ001XY08",
-      "seatNo": "D6",
-      "Image": "https://randomuser.me/api/portraits/men/9.jpg",
-      "luggage": "25kg",
-      "payPerView": "Hollywood",
-      "address": "124 street Random city Popular Country",
-      "passport": "ABC123XY97",
-      "dob": "1996-02-20"
-    },
-    {
       "id": "PQ001-9",
       "airlineNumber": "PQ001",
       "firstName": "Ruperta",
@@ -499,13 +490,15 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY09",
-      "seatNo": "A6",
+      "seatNo": "",
       "Image": "https://randomuser.me/api/portraits/men/10.jpg",
       "luggage": "25kg",
       "meal": "Veg",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY98",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "payPerView": "",
+      "inFlightShopping": false
     },
     {
       "id": "PQ001-10",
@@ -592,7 +585,7 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY14",
-      "seatNo": "E1",
+      "seatNo": "",
       "Image": "https://randomuser.me/api/portraits/women/15.jpg",
       "meal": "Non-Veg",
       "payPerView": "Hollywood",
@@ -698,11 +691,15 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY20",
-      "seatNo": "A10",
+      "seatNo": "F1",
       "Image": "https://randomuser.me/api/portraits/men/21.jpg",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY9018",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "luggage": "",
+      "meal": "Special Meal",
+      "payPerView": "",
+      "inFlightShopping": false
     },
     {
       "id": "PQ001-21",
@@ -967,7 +964,7 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ002XY04",
-      "seatNo": "C1",
+      "seatNo": "",
       "Image": "https://randomuser.me/api/portraits/women/5.jpg",
       "meal": "Veg",
       "luggage": "40kg",
@@ -1294,7 +1291,7 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ002XY22",
-      "seatNo": "D4",
+      "seatNo": "F3",
       "Image": "https://randomuser.me/api/portraits/men/23.jpg",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY121",
@@ -1367,12 +1364,14 @@
       "infants": true,
       "lastName": "Vincent",
       "luggage": "25kg",
-      "meal": "Non-Veg",
+      "meal": "Special Meal",
       "payPerView": "Hollywood",
       "seatNo": "A1",
       "address": "124 street Random city Popular Country",
       "passport": "XYZ123AB01",
-      "dob": "2006-02-20"
+      "dob": "2006-02-20",
+      "inFlightShopping": false,
+      "wheelChair": false
     },
     {
       "id": 2,
@@ -1923,12 +1922,14 @@
       "infants": true,
       "lastName": "Vincent",
       "luggage": "25kg",
-      "meal": "Non-Veg",
+      "meal": "Veg",
       "payPerView": "Hollywood",
       "seatNo": "A1",
       "address": "124 street Random city Popular Country",
       "passport": "XYZ123AB31",
-      "dob": "1999-08-18"
+      "dob": "1999-08-18",
+      "inFlightShopping": true,
+      "wheelChair": false
     },
     {
       "id": 2,
