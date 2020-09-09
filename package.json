@@ -5,13 +5,14 @@
   "main": "server.js",
   "scripts": {
     "start-for-deployement": "node index.js",
-    "start": "json-server -w db.json --port 3000",
-    "dev": "nodemon index.js"
+    "dev": "json-server -w db.json --port 3000",
+    "start": "nodemon index.js",
+    "ayush": "set PORT=3006 &&  react-scripts start"
   },
   "keywords": [
     "json-server,heroku, node, REST API"
   ],
-  "author": "Jesper Orb",
+  "author": "Ayush Jain",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.12.1"
