@@ -14,7 +14,7 @@
       "date": "Thu Oct 27 2019",
       "inFlightShopping": true,
       "ancillaryServices": {
-        "luggage": true,
+        "luggage": false,
         "Pay-Per-View": true,
         "meal": true,
         "In-Flight-Shopping": true
@@ -23,7 +23,8 @@
         "luggage": [
           "15kg",
           "25kg",
-          "40kg"
+          "40kg",
+          "20kg"
         ],
         "Pay-Per-View": [
           "Bollywood",
@@ -347,26 +348,6 @@
   ],
   "PQ001": [
     {
-      "id": "PQ001-1",
-      "airlineNumber": "PQ001",
-      "firstName": "YaYa",
-      "lastName": "Volonte",
-      "age": 24,
-      "contactNumber": 9811954293,
-      "infants": false,
-      "wheelChair": true,
-      "PNR": "PQ001XY01",
-      "seatNo": "F7",
-      "Image": "https://randomuser.me/api/portraits/men/1.jpg",
-      "meal": "Special Meal",
-      "luggage": "",
-      "payPerView": "",
-      "address": "4555  Heavner Court Garden City  Popular Country",
-      "passport": "ABC123XY91",
-      "dob": "1996-02-20",
-      "inFlightShopping": true
-    },
-    {
       "id": "PQ001-2",
       "airlineNumber": "PQ001",
       "firstName": "William",
@@ -376,14 +357,15 @@
       "infants": true,
       "wheelChair": false,
       "PNR": "PQ001XY02",
-      "seatNo": "E10",
+      "seatNo": "C10",
       "Image": "https://randomuser.me/api/portraits/men/2.jpg",
       "meal": "Non-Veg",
       "luggage": "15kg",
       "payPerView": "Bollywood",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY90",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "inFlightShopping": false
     },
     {
       "id": "PQ001-3",
@@ -395,14 +377,15 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY03",
-      "seatNo": "C2",
+      "seatNo": "F7",
       "Image": "https://randomuser.me/api/portraits/men/3.jpg",
       "meal": "Non-Veg",
       "luggage": "15kg",
       "payPerView": "Bollywood",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY92",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "inFlightShopping": false
     },
     {
       "id": "PQ001-4",
@@ -433,7 +416,7 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY05",
-      "seatNo": "A1",
+      "seatNo": "",
       "Image": "https://randomuser.me/api/portraits/women/6.jpg",
       "luggage": "25kg",
       "meal": "Non-Veg",
@@ -490,7 +473,7 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY09",
-      "seatNo": "",
+      "seatNo": "D10",
       "Image": "https://randomuser.me/api/portraits/men/10.jpg",
       "luggage": "25kg",
       "meal": "Veg",
@@ -510,7 +493,7 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY10",
-      "seatNo": "C10",
+      "seatNo": "",
       "Image": "https://randomuser.me/api/portraits/men/11.jpg",
       "meal": "Veg",
       "payPerView": "Hollywood",
@@ -688,10 +671,10 @@
       "lastName": "Pren",
       "age": 24,
       "contactNumber": 9811954264,
-      "infants": false,
-      "wheelChair": false,
+      "infants": true,
+      "wheelChair": true,
       "PNR": "PQ001XY20",
-      "seatNo": "F1",
+      "seatNo": "B2",
       "Image": "https://randomuser.me/api/portraits/men/21.jpg",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY9018",
@@ -711,7 +694,7 @@
       "infants": true,
       "wheelChair": false,
       "PNR": "PQ001XY21",
-      "seatNo": "F2",
+      "seatNo": "",
       "Image": "https://randomuser.me/api/portraits/men/22.jpg",
       "luggage": "40kg",
       "meal": "Non-Veg",
@@ -777,7 +760,7 @@
       "firstName": "Guido",
       "lastName": "Guerrin",
       "age": 24,
-      "contactNumber": 9811954285,
+      "contactNumber": "9811954285",
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY25",
@@ -788,7 +771,8 @@
       "payPerView": "Hollywood",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY903",
-      "dob": "1996-02-20"
+      "dob": "2017-01-01",
+      "inFlightShopping": false
     },
     {
       "id": "PQ001-26",
@@ -798,13 +782,17 @@
       "age": 24,
       "contactNumber": 9811954257,
       "infants": false,
-      "wheelChair": false,
+      "wheelChair": true,
       "PNR": "PQ001XY26",
       "seatNo": "F3",
       "Image": "https://randomuser.me/api/portraits/women/27.jpg",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY904",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "luggage": "",
+      "meal": "",
+      "payPerView": "",
+      "inFlightShopping": false
     },
     {
       "id": "PQ001-27",
@@ -813,8 +801,8 @@
       "lastName": "Ambrosi",
       "age": 24,
       "contactNumber": 9811954267,
-      "infants": false,
-      "wheelChair": false,
+      "infants": true,
+      "wheelChair": true,
       "PNR": "PQ001XY27",
       "seatNo": "F6",
       "Image": "https://randomuser.me/api/portraits/women/28.jpg",
@@ -823,7 +811,8 @@
       "payPerView": "Hollywood",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY905",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "inFlightShopping": false
     },
     {
       "id": "PQ001-28",
@@ -851,7 +840,7 @@
       "infants": false,
       "wheelChair": false,
       "PNR": "PQ001XY29",
-      "seatNo": "F10",
+      "seatNo": "E1",
       "Image": "https://randomuser.me/api/portraits/men/30.jpg",
       "luggage": "40kg",
       "meal": "Special Meal",
@@ -859,7 +848,7 @@
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY907",
       "dob": "1996-02-20",
-      "inFlightShopping": false
+      "inFlightShopping": true
     },
     {
       "id": "PQ001-30",
@@ -884,18 +873,16 @@
       "id": "31",
       "PNR": "PQ001XY31",
       "airlineNumber": "PQ001",
-      "firstName": "AYUSH",
-      "lastName": "JAIN",
-      "contactNumber": "8447960828",
-      "luggage": "15kg",
-      "meal": "Veg",
-      "payPerView": "Bollywood",
-      "seatNo": "E9",
+      "firstName": "Ayush",
+      "lastName": "jain",
+      "contactNumber": "09090909",
+      "luggage": "",
+      "meal": "",
+      "payPerView": "",
+      "inFlightShopping": false,
+      "seatNo": "A10",
       "infants": false,
-      "wheelChair": false,
-      "address": "wrad -12\nJain Mohalla",
-      "passport": "AYJ1896",
-      "dob": "1996-06-18"
+      "wheelChair": false
     }
   ],
   "PQ002": [
@@ -909,13 +896,15 @@
       "id": 1,
       "infants": true,
       "lastName": "Vincent",
-      "luggage": "25kg",
+      "luggage": "15kg",
       "meal": "Non-Veg",
       "payPerView": "Hollywood",
       "seatNo": "A1",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY100",
-      "dob": "1996-02-20"
+      "dob": "1996-02-20",
+      "inFlightShopping": false,
+      "wheelChair": false
     },
     {
       "id": 2,
@@ -1261,7 +1250,11 @@
       "Image": "https://randomuser.me/api/portraits/women/21.jpg",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY119",
-      "dob": "2006-02-20"
+      "dob": "2006-02-20",
+      "luggage": "",
+      "meal": "Special Meal",
+      "payPerView": "",
+      "inFlightShopping": true
     },
     {
       "id": 21,
@@ -1331,7 +1324,11 @@
       "Image": "https://randomuser.me/api/portraits/men/25.jpg",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY123",
-      "dob": "2006-02-20"
+      "dob": "2006-02-20",
+      "luggage": "",
+      "meal": "Special Meal",
+      "payPerView": "",
+      "inFlightShopping": false
     },
     {
       "id": 25,
@@ -1346,11 +1343,12 @@
       "seatNo": "D9",
       "Image": "https://randomuser.me/api/portraits/men/26.jpg",
       "luggage": "40kg",
-      "meal": "Non-Veg",
+      "meal": "Special Meal",
       "payPerView": "Hollywood",
       "address": "124 street Random city Popular Country",
       "passport": "ABC123XY124",
-      "dob": "2006-02-20"
+      "dob": "2006-02-20",
+      "inFlightShopping": false
     }
   ],
   "PQ003": [
@@ -2002,11 +2000,12 @@
       "seatNo": "F1",
       "Image": "https://randomuser.me/api/portraits/women/46.jpg",
       "luggage": "25kg",
-      "meal": "Veg",
+      "meal": "Special Meal",
       "payPerView": "Hollywood",
       "address": "124 street Random city Popular Country",
       "passport": "XYZ123AB34",
-      "dob": "1999-08-18"
+      "dob": "1999-08-18",
+      "inFlightShopping": false
     },
     {
       "id": 6,
@@ -2015,7 +2014,7 @@
       "lastName": "Boucher",
       "age": 12,
       "contactNumber": 9811954254,
-      "infants": true,
+      "infants": false,
       "wheelChair": true,
       "PNR": "PQ005XY06",
       "seatNo": "D1",
@@ -2025,7 +2024,8 @@
       "payPerView": "Bollywood",
       "address": "124 street Random city Popular Country",
       "passport": "XYZ123AB35",
-      "dob": "1999-08-18"
+      "dob": "1999-08-18",
+      "inFlightShopping": false
     },
     {
       "id": 7,
@@ -2063,6 +2063,74 @@
       "address": "124 street Random city Popular Country",
       "passport": "XYZ123AB37",
       "dob": "1999-08-18"
+    },
+    {
+      "id": "9",
+      "PNR": "PQ005XY9",
+      "airlineNumber": "PQ005",
+      "firstName": "D2",
+      "lastName": " J1",
+      "contactNumber": "9090",
+      "address": "wrad -12\nJain Mohalla",
+      "passport": "IO90",
+      "dob": "2019-08-29",
+      "luggage": "",
+      "meal": "",
+      "payPerView": "",
+      "inFlightShopping": false,
+      "infants": false,
+      "wheelChair": false
+    },
+    {
+      "id": "10",
+      "PNR": "PQ005XY10",
+      "airlineNumber": "PQ005",
+      "firstName": "dummy",
+      "lastName": "2",
+      "contactNumber": "90909090",
+      "address": "wrad -12\nJain Mohalla",
+      "passport": "JKJK9090",
+      "dob": "2019-05-16",
+      "luggage": "",
+      "meal": "",
+      "payPerView": "",
+      "inFlightShopping": false,
+      "infants": false,
+      "wheelChair": false
+    },
+    {
+      "id": "11",
+      "PNR": "PQ005XY11",
+      "airlineNumber": "PQ005",
+      "firstName": "yaya",
+      "lastName": "Tourey",
+      "contactNumber": "90901212",
+      "address": "wrad -12\nJain Mohalla",
+      "passport": "AHJU789",
+      "dob": "2019-12-06",
+      "luggage": "25kg",
+      "meal": "Special Meal",
+      "payPerView": "Hollywood",
+      "inFlightShopping": true,
+      "seatNo": "B1",
+      "infants": false,
+      "wheelChair": false
+    },
+    {
+      "id": "12",
+      "PNR": "PQ005XY12",
+      "airlineNumber": "PQ005",
+      "firstName": "TEST ",
+      "lastName": "USER",
+      "contactNumber": "0099009900",
+      "luggage": "",
+      "meal": "",
+      "payPerView": "",
+      "inFlightShopping": false,
+      "seatNo": "F7",
+      "infants": false,
+      "wheelChair": false,
+      "passport": ""
     }
   ],
   "users": [
