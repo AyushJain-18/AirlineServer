@@ -4,9 +4,9 @@
   "description": "Simple json-base database to deploy to Heroku",
   "main": "server.js",
   "scripts": {
-    "start-for-deployement": "node index.js",
-    "dev": "json-server -w db.json --port 3000",
-    "start": "nodemon index.js",
+    "start": "node index.js",
+    "start-for-deployement": "json-server -w db.json --port 3000",
+    "dev": "nodemon index.js",
     "ayush": "set PORT=3006 &&  react-scripts start"
   },
   "keywords": [
