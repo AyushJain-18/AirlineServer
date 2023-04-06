@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "loginID": "planyourtrip@gmail.com",
+      "password": "admin@1234",
+      "isAdmin": true,
+      "isCrew": false,
+      "isPassenger": false
+    },
+    {
+      "id": 2,
+      "loginID": "cabincrew1@gmail.com",
+      "password": "crew@1234",
+      "isAdmin": false,
+      "isCrew": true,
+      "isPassenger": false
+    },
+    {
+      "id": 3,
+      "loginID": "cabincrew2@gmail.com",
+      "password": "crew@1234",
+      "isAdmin": false,
+      "isCrew": true,
+      "isPassenger": false
+    }
+  ]
