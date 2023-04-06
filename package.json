@@ -7,10 +7,11 @@
     "start-for-deployement": "node index.js",
     "start": "json-server -w db.json --port 3000",
     "dev": "nodemon index.js",
-    "ayush": "set PORT=3006 &&  react-scripts start"
+    "ayush": "set PORT=3006 &&  react-scripts start",
+    "build": "json-server -w db.json --port 3000"
   },
   "keywords": [
-    "json-server,heroku, node, REST API"
+    "json-server,node, REST API"
   ],
   "author": "Ayush Jain",
   "license": "ISC",
