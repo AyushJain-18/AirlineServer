@@ -1,20 +1,30 @@
 {
-  "name": "json-server-for-airjet",
+  "name": "airline-server",
   "version": "1.0.0",
-  "description": "Simple json-base database to deploy to Heroku",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "ayush": "set PORT=3006 &&  react-scripts start",
-    "build": "node index.js"
+    "dev": "nodemon index.js"
   },
-  "keywords": [
-    "json-server,node, REST API"
-  ],
-  "author": "Ayush Jain",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushJain-18/AirlineServer.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushJain-18/AirlineServer/issues"
+  },
+  "homepage": "https://github.com/AyushJain-18/AirlineServer#readme",
   "dependencies": {
-    "json-server": "^0.12.1"
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
