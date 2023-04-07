@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "ayush": "set PORT=3006 &&  react-scripts start",
-    "build": "json-server -w db.json --port 3000"
+    "build": "node index.js"
   },
   "keywords": [
     "json-server,node, REST API"
